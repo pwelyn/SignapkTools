@@ -1,5 +1,5 @@
 # SignapkTools
-Windows 右键apk签名工具
+Windows 右键 Android签名工具
 
 双击Install.cmd 安装
 
