@@ -1,0 +1,6 @@
+*.cmd text eol=crlf whitespace=cr-at-eol
+*.ps1 text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.sh text eol=lf
